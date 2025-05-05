@@ -72,7 +72,7 @@ Key metrics include:
 
 ### 📷 Dashboard Screenshot
 
-![Dashboard Overview](screenshots/hospital_claims_dashboard.png)
+
 
 ### 📈 Demographic Insights
 
