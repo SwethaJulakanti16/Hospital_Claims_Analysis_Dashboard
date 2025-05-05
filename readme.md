@@ -72,6 +72,7 @@ Key metrics include:
 
 ### 📷 Dashboard Screenshot
 
+<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/d696864b-1e46-4266-8744-8cf344fda049" />
 
 
 ### 📈 Demographic Insights
